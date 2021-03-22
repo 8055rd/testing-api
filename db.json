@@ -1,7 +1,12 @@
 {	
-	"first_name":"rajinder",
-	"last_name":"singh",
+	
 	"data":[
+				{
+					"first_name":"rajinder"
+				},
+				{
+					"last_name":"singh"
+				},
 				{
 							"id":5,
 						"email":"dwayne.johnson@reqres.in",
